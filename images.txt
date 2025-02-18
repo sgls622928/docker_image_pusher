@@ -6,3 +6,4 @@ langgenius/dify-sandbox:0.2.10
 redis:6-alpine
 ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
+dify
